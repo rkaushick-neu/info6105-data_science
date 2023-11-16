@@ -17,7 +17,7 @@ Using Anaconda
   1. Open Terminal / Command Prompt
   2. Navigate to this repository folder (cd path/to/info6105-data_science)
   3. conda create -n info6015 python=3.8.17
-     # this will create a virtual environment with python version 3.8.17
+     this will create a virtual environment with python version 3.8.17
   4. conda activate info6015
-     # activating the virtual env
+     activating the virtual env
   5. pip install -r requirements.txt
